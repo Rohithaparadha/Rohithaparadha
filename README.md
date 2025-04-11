@@ -19,7 +19,7 @@ I'm a passionate and enthusiastic software developer with a strong foundation in
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C++, Java, JavaScript  
+- **Languages:** Python, AI/ML, C++, Java, JavaScript  
 - **Web Development:** HTML, CSS  
 - **Tools & Platforms:** Git, Windows, VS Code  
 - **Databases:** SQL (basic knowledge)  
