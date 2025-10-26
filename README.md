@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineering Student | 💻 Aspiring Software Engineer  
 📍 Hyderabad, India  
-📫 rohithaparadha@gmail.com  
+📫 rohithaparadha02@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/rohith-aparadha-969208262) | [GitHub](https://github.com/Rohithaparadha)
 
 ---
