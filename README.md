@@ -1,67 +1,78 @@
-# 👋 Hi, I'm Aparadha Rohith
+# Rohith Aparadha
 
-🎓 Computer Science Engineering Student | 💻 Aspiring Software Engineer  
-📍 Hyderabad, India  
-📫 rohithaparadha02@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/rohith-aparadha-969208262) | [GitHub](https://github.com/Rohithaparadha)
+**Python Full Stack Developer**  
+Backend-focused | Clean Architecture | Reliable Systems
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-I'm a passionate and enthusiastic software developer with a strong foundation in C++, Java, and JavaScript, complemented by hands-on experience in both web development and cybersecurity. I'm actively looking for opportunities to collaborate on innovative projects and contribute meaningfully to development teams.
-
-- 🔭 Currently pursuing B.Tech in Computer Science (2022–2025)
-- 🌱 Focused on enhancing my skills in full-stack development and security practices
-- 🤝 Always open to collaborative projects, open-source contributions, and learning opportunities
+Computer Science Engineering graduate with strong proficiency in **Python backend development** and hands-on experience building **secure, data-driven applications** using Django and Flask. Skilled in translating requirements into clean, maintainable code with a strong emphasis on **data integrity, validation, and system reliability**. Actively seeking opportunities as a **Python / Full Stack Developer**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Expertise
 
-- **Languages:** Python, AI/ML, C++, Java, JavaScript  
-- **Web Development:** HTML, CSS  
-- **Tools & Platforms:** Git, Windows, VS Code  
-- **Databases:** SQL (basic knowledge)  
-- **Soft Skills:** Problem-solving, collaboration, documentation, project management
+**Languages**  
+Python · Java · JavaScript  
 
----
+**Backend & Web**  
+Django · Flask · REST APIs · HTML · CSS  
 
-## 💼 Internship Experience
+**Databases**  
+MySQL · Data Modeling · CRUD Operations  
 
-### 💡 Bharat Intern (Web Development)
-- Created responsive web applications using HTML, CSS, JavaScript
-- Integrated APIs and improved cross-browser compatibility
-- Documented development processes for team onboarding
+**Core CS Concepts**  
+Data Structures & Algorithms · OOP · Exception Handling · File Handling  
 
-### 🔐 TCS Forage Virtual Internship (Cybersecurity)
-- Designed IAM solutions and improved identity governance
-- Reduced security incidents through proactive monitoring and risk assessment
+**Tools & Platforms**  
+Git · GitHub · VS Code · PyCharm  
 
 ---
 
-## 📜 Certifications
+## 📌 Key Projects
 
-- PGDCA – Human Resource Development Society  
-- Web Development – Bharat Intern  
-- Cybersecurity Job Simulation – Forage
+### 🔐 Fingerprint-Based ATM Security System
+**Python | MySQL | Biometrics | IoT**
+
+- Designed a **multi-layer ATM authentication system** replacing traditional PINs with biometric and OTP-based verification  
+- Integrated **fingerprint and facial recognition** for secure user identification  
+- Developed a **Python GUI connected to MySQL** for managing biometric and transaction data  
+- Implemented **account lock mechanisms** after repeated failed login attempts  
+- Added **tamper detection using vibration sensors**, improving physical security
+
+**Outcome:** Improved authentication reliability and significantly reduced unauthorized access attempts.
+
+---
+
+### 🧑‍💼 Employee Information System
+**Python | File Handling | Pickle**
+
+- Built a **modular employee data management system** with persistent storage  
+- Implemented **robust exception handling** to prevent crashes and data corruption  
+- Designed clean functions for record creation, update, and deletion  
+- Optimized serialization and deserialization for faster data access  
+- Achieved **stable, error-free execution across extensive test cases**
+
+**Outcome:** Demonstrated strong command over Python fundamentals and system stability.
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I Focus On
 
-![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohithaparadha&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithaparadha&layout=compact)
+- Writing **clean, readable, and maintainable Python code**
+- Backend logic that handles **edge cases and failures**
+- Database-backed applications with proper validation
+- Continuous improvement in **Django, APIs, and DSA**
+
+---
+
+## 📫 Contact & Profiles
+
+- **Email:** rohithaparadha02@gmail.com  
+- **LinkedIn:** http://linkedin.com/in/RohithAparadha/  
+- **Portfolio:** https://rohithaparadha.github.io/Portfolio-main/
 
 ---
 
-## ✨ Let's Connect!
-
-I'm actively seeking an **entry-level Software Engineer** position.  
-If you think we can build something great together, feel free to connect or reach out!
-
-📬 rohithaparadha@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohith-aparadha-969208262)  
-🐙 [GitHub](https://github.com/Rohithaparadha)
-
----
+*Open to Python Backend / Full Stack Developer opportunities*
