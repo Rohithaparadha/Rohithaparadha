@@ -14,7 +14,7 @@ Computer Science Engineering graduate with strong proficiency in **Python backen
 ## 🛠 Technical Expertise
 
 **Languages**  
-Python · Java · JavaScript  
+Python · JavaScript  
 
 **Backend & Web**  
 Django · Flask · REST APIs · HTML · CSS  
